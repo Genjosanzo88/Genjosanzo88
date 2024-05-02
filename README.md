@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,php,laravel,html5,css,discord,docker,github,js,linux,mysql,postman,react,redux,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,php,laravel,html,css,discord,docker,github,js,linux,mysql,postman,react,redux,tailwind,vscode&perline=14" />
   </a>
 </p>
 
