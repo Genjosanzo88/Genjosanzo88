@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+<p align="center">
+  <b>I'm a passionate programmer who loves to code</b>
+</p>
 
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
+<br>
 <br>
 
 **About me**
