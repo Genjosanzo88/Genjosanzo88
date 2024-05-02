@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
-<br>
 
 **About me**
 
 <br>
-
-- A passionate Self-taught Back-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity.
+- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
+- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** everyday.
+- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
 <br>
 
