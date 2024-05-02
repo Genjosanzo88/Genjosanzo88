@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 **About me**
 
 <br>
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** everyday.
+- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.<br>
+- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** everyday.<br>
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
 <br>
